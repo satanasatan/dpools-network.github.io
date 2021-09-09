@@ -4,5 +4,5 @@ lang: tr
 redirect_from:
   - /errata/
   - /tr/releases/
-title: İndir - Chia Network
+title: İndir - dpools Network
 ---

@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: tr
-title: Haberler - Chia Network
+title: Haberler - dpools Network
 ---

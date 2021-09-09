@@ -1,5 +1,5 @@
 ---
 layout: homemain
 lang: tr
-title: Ev - Chia Network
+title: Ev - dpools Network
 ---

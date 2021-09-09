@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: tr
-title: İletişim - Chia Network
+title: İletişim - dpools Network
 ---

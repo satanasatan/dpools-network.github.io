@@ -2,27 +2,19 @@ en: # English
   faq_title: "FAQ"
   news_title: "News"
   news_see_more: "See more"
-  homemain_title: "Chia Network"
-  homemain_subtitle: "A new blockchain and smart transaction platform that is easier to use, more efficient, and secure."
-  homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>Official pooling protocol is live!</a>"
+  homemain_title: "Dpools Network"
+  homemain_subtitle: "what is this."
+  homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>blockchain is live!</a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
     Mainnet Release
     --------------------
 
-    We believe that cryptocurrency should be easier to use than cash, harder to lose, and nearly impossible to steal. Anyone who wants to validate transactions should be able to farm without single-use hardware or a big electricity bill.
-
-    On February 9th we released our [Business Whitepaper](https://www.chia.net/2021/02/10/chia-businesss-whitepaper.html) and mainnet launched for farming rewards on Friday March 19, 2021. Transactions were enabled on May 3, 2021. You may also be interested in our [new consensus working document](/assets/Chia-New-Consensus-0.9.pdf) which was implemented first in Beta 19 on January 12, 2021.
-
-    Chia Network develops a blockchain and smart transaction platform created by the inventor of BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.”
-
-    [Chialisp](https://chialisp.com) is Chia’s new on chain programming language that is powerful, easy to audit, and secure. It will make cryptocurrency easier to use than cash. Reference smart transactions currently available are: [Coloured coins](https://www.chia.net/2020/04/29/coloured-coins-launch.en.html), [rate-limited wallets](https://github.com/Chia-Network/chia-blockchain/tree/main/chia/wallet/rl_wallet), and [distributed identity wallets](https://github.com/Chia-Network/chia-blockchain/tree/main/chia/wallet/did_wallet). Bram introduces [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) on our [blog](/blog) and you can learn more at [Chialisp.com](https://chialisp.com).
-
-    You should review the [release notes](download/#release-notes) and then [install](/download) Chia blockchain.
+     to be added
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
-  homemain_box_section_1: "Blockchain, Chialisp and Coloured coins"
+  homemain_box_section_1: "Blockchain, overlapping and Coloured coins"
   homemain_box_section_2: "Install"
   homemain_box_latest_version: "Latest Version:"
   homemain_chia_blockchain_no_releases: "1.0"
@@ -32,7 +24,7 @@ en: # English
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
@@ -52,14 +44,14 @@ en: # English
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Us"
   about_description: |
-    Founded by Bram Cohen, the inventor of the BitTorrent network, Chia Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
+    Founded by Bram Cohen, the inventor of the BitTorrent network, dpools Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 
     Chialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive “proofs of work” by utilizing unused disk space.
 
-    Chia Network supports the development and deployment of the Chia blockchain globally. Chia Network supports chia developers and supports the enterprise use of chia with software support and chia lending.
+    dpools Network supports the development and deployment of the Chia blockchain globally. dpools Network supports chia developers and supports the enterprise use of chia with software support and chia lending.
   about_team_title: "Team"
   about_team_description: |
-    Chia Network was founded by the creator of BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). It also includes executive leadership from the former founder and CEO of eMusic.com and Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) and the former acting-CEO of Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). The Chia blockchain has an active open source developer community with many contributions to the codebase. Many individuals contribute towards the Chia blockchain in areas which include research, peer reviews, development, testing, documentation, and translation.
+    dpools Network was founded by the creator of BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). It also includes executive leadership from the former founder and CEO of eMusic.com and Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) and the former acting-CEO of Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). The Chia blockchain has an active open source developer community with many contributions to the codebase. Many individuals contribute towards the Chia blockchain in areas which include research, peer reviews, development, testing, documentation, and translation.
   about_invest_investors_title: "Our Investors"
   careers_title: "Careers"
   careers_description: |
@@ -95,18 +87,18 @@ en: # English
     Happy Farming!
   terms_team_title: "Guidelines"
   terms_team_description: |
-    * [Guidelines for Using Chia Network’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
+    * [Guidelines for Using dpools Network’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
     * [Chia Copyright Policy](/assets/legal/Chia-Copyright-Policy.pdf)
     * [Chia Trademark Policy](/assets/legal/Chia-Trademark-Policy.pdf)
-  footer_copyright_year: "© Chia Network 2021"
+  footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Download"
     about: "About"
     blog: "Blog"
-    news: "News"
+    # news: "News"
     faq: "FAQ"
-    greenpaper: "Green Paper"
-    careers: "Careers"
+    # greenpaper: "Green Paper"
+    # careers: "Careers"
     contact: "Contact"
     grants: "Grants"
   contact_title: "Contact Us"
@@ -116,11 +108,11 @@ en: # English
   contact_email: "Email"
   contact_signup: "Submit"
   grants_title: "Chia Cultivation Grant Program"
-  grants_description: "Chia Networks is committed to growing and nurturing the Chia ecosystem in as many ways as possible, not only via applications and functionality we develop, but via encouraging our highly engaged community to unleash its creativity within the ecosystem." 
+  grants_description: "dpools Networks is committed to growing and nurturing the Chia ecosystem in as many ways as possible, not only via applications and functionality we develop, but via encouraging our highly engaged community to unleash its creativity within the ecosystem." 
   grants_why_1: "We know that members of the community will create amazing open source projects of their own, and that some of those projects will very likely stand as pillars of the community and ecosystem."
-  grants_why_2: "To that end, in an effort to further support high-potential projects and teams, Chia Networks is excited to announce the launch of the Chia Cultivation Grant program!"
+  grants_why_2: "To that end, in an effort to further support high-potential projects and teams, dpools Networks is excited to announce the launch of the Chia Cultivation Grant program!"
   grants_who: "People or teams who have caught the eye of Chia’s senior leadership and present a compelling proposal as to why they feel their vision, talent, and expertise are uniquely positioned to add material value to the community are provided modest financial support via grants. "
-  grants_who_2: "Chia Networks is committed to helping those teams realize their vision and highlighting the potential value Chia feels they bring to the ecosystem with promotional assets and support."
+  grants_who_2: "dpools Networks is committed to helping those teams realize their vision and highlighting the potential value Chia feels they bring to the ecosystem with promotional assets and support."
   grants_when: "In the coming weeks, we will add further information on the program to this page. We will provide full details of the program, as well as profile current recipients of Grants and more. Until then, watch this space for more updates, and if you have a team with a project vision you think would be a potential candidate for a Grant, you can reach out to us at [cultivation@chia.net](mailto:cultivation@chia.net)."
   grants_disclaimer: "Please note at this time, due to the potential volume of applications and interest, we cannot guarantee we will be able to individually follow up with all applicants, and will be prioritizing those who present a fully fleshed out in-depth proposal that incorporates not only a solid idea, but milestones, fiscal and resource budgets, team information, etc."
   grants_faq_title: "FAQ"
@@ -173,9 +165,9 @@ fr: # French
     Release Candidates
     ---------------------
 
-    Chia Network est une plateforme de blockchain et de transaction intelligente créée par le fondateur de BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Il utilise le premier nouvel algorithme de consensus de style Nakamoto depuis le lancement de Bitcoin en 2008. Les preuves de l'espace et du temps remplacent les preuves de travail énergivores en utilisant l'espace disque inutilisé.
+    dpools Network est une plateforme de blockchain et de transaction intelligente créée par le fondateur de BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Il utilise le premier nouvel algorithme de consensus de style Nakamoto depuis le lancement de Bitcoin en 2008. Les preuves de l'espace et du temps remplacent les preuves de travail énergivores en utilisant l'espace disque inutilisé.
 
-    Beta testnet présente la première version de Chialisp, le langage de programmation de transactions intelligent de Chia. Il est puissant, facile à auditer et sécurisé. Les transactions intelligentes actuellement disponibles sont: [swaps atomiques](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [bénéficiaires autorisés](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [portefeuilles récupérables](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [portefeuilles multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) et [portefeuilles à taux limité](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Le fondateur de Chia Network, et ancien fondateur de BitTorrent, en a plus sur [Chialisp](https://www.chia.net/2019/11/27/chialisp.fr.html).
+    Beta testnet présente la première version de Chialisp, le langage de programmation de transactions intelligent de Chia. Il est puissant, facile à auditer et sécurisé. Les transactions intelligentes actuellement disponibles sont: [swaps atomiques](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [bénéficiaires autorisés](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [portefeuilles récupérables](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [portefeuilles multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) et [portefeuilles à taux limité](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Le fondateur de dpools Network, et ancien fondateur de BitTorrent, en a plus sur [Chialisp](https://www.chia.net/2019/11/27/chialisp.fr.html).
 
     Beta testnet présente également la couche de consensus de blockchain de Chia qui comprend un nœud complet, un agriculteur, et un calendrier. La blockchain est beta et il ne prend pas encore en charge les transactions.
 
@@ -202,16 +194,16 @@ fr: # French
   homemain_downloads_link: "Consulter les notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "À propos de nous"
   about_description: |
-    Chia Network est une blockchain mondiale open source décentralisée qui est moins gaspilleuse, plus décentralisée et plus sécurisée que les crypto-monnaies traditionnelles de preuve de travail. Il est inspiré et similaire à la blockchain Bitcoin, mais à Chia, la ressource n'est pas la puissance de calcul, mais l'espace disque. Pour y parvenir, les «preuves de travail» utilisées dans Bitcoin sont remplacées par des «preuves d'espace», de sorte que l'espace disque devient la principale ressource et les preuves de temps pour parvenir à un consensus décentralisé de «style Nakamoto» qui valide les transactions.
+    dpools Network est une blockchain mondiale open source décentralisée qui est moins gaspilleuse, plus décentralisée et plus sécurisée que les crypto-monnaies traditionnelles de preuve de travail. Il est inspiré et similaire à la blockchain Bitcoin, mais à Chia, la ressource n'est pas la puissance de calcul, mais l'espace disque. Pour y parvenir, les «preuves de travail» utilisées dans Bitcoin sont remplacées par des «preuves d'espace», de sorte que l'espace disque devient la principale ressource et les preuves de temps pour parvenir à un consensus décentralisé de «style Nakamoto» qui valide les transactions.
 
-    Chia network est également une société de plate-forme de transaction intelligente.
+    dpools Network est également une société de plate-forme de transaction intelligente.
   about_team_title: "Équipe"
   about_team_description: |
-    Chia Network a été fondée par le créateur de BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Ca comprend également le leadership exécutif de l'ancien fondateur et PDG d'eMusic.com et de Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) et de l'ancien PDG par intérim d'Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). La blockchain Chia a une communauté de développeurs open source active avec de nombreuses contributions à la base de code. De nombreuses personnes contribuent à la blockchain Chia dans des domaines tels que la recherche, l'examen par les pairs, les tests, la documentation et la traduction.
+    dpools Network a été fondée par le créateur de BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Ca comprend également le leadership exécutif de l'ancien fondateur et PDG d'eMusic.com et de Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) et de l'ancien PDG par intérim d'Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). La blockchain Chia a une communauté de développeurs open source active avec de nombreuses contributions à la base de code. De nombreuses personnes contribuent à la blockchain Chia dans des domaines tels que la recherche, l'examen par les pairs, les tests, la documentation et la traduction.
   about_invest_investors_title: "Nos investisseurs"
   blog_title: "Directement de Chia"
   download_title: "Notes de version"
@@ -235,7 +227,7 @@ fr: # French
     Bram Cohen [présenté](https://www.youtube.com/watch?v=2Zlcgt8FVz4) à Stanford en février 2018 sur Proofs of Space. Nos conseillers, Dan Boneh, Benedikt Bünz et Ben Fisch [ont publié une enquête sur les VDF](https://eprint.iacr.org/2018/712.pdf) qui sont la technologie sous-jacente de Proof of Time. Lipa Long [a publié une explication des groupes de classe](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) que nos [preuves de temps](https: //eprint.iacr .org / 2018 / 627.pdf) est basé sur. Bram a présenté [Beyond Hellman's Time-Memory Trade-Offs with Applications to Proofs of Space](https://www.youtube.com/watch?v=iqxkO7C-cyk) à BPASE '18 en janvier 2018 sur la base du [document académique](https://eprint.iacr.org/2017/893) et ces [diapositives](https://view.publitas.com/chia-network/pbase18slides/page/1) par Hamza Abusalah. Ben Fisch a donné une [conférence](https://www.youtube.com/watch?v=qUoagL7OZ1k) à BPASE 2018 en janvier 2018 sur les fonctions de délai vérifiable. Bram [a pris la parole à Blockchain at Berkeley](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (qui commence vers 20h00) en mars 2018 avec [slides](https: //cyber.stanford. edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf). Bram a donné une [conférence à BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) en janvier 2017 sur l'élimination des déchets avec des preuves d'espace et de temps ([slides](https: //cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf)).
 
     Bram a donné une [conférence](https://www.youtube.com/watch?v=zZaB4hM8SQ4) au SF Bitcoin Devs Seminar sur les structures de données pour la mise à l'échelle de Bitcoin avec [slides](https://view.publitas.com/chia -network / bitcoin_data_structures /) et [Merkle Set code](https://github.com/bramcohen/MerkleSet). Bram a donné une [conférence](https://www.youtube.com/watch?v=zZaB4hM8SQ4) au SF Bitcoin Devs Seminar sur l'élimination des déchets des crypto-monnaies.
-  footer_copyright_year: "© Chia Network 2021"
+  footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Télécharger"
     about: "Sur"
@@ -298,9 +290,9 @@ cn: # Chinese
     Chia的Beta测试网
     -------------
 
-    Chia Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
+    dpools Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
 
-    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 Chia Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
+    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 dpools Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
 
     Beta测试网还引入了Chia的区块链共识层，其中包括一个完整的节点，农民和时间主。
 
@@ -327,16 +319,16 @@ cn: # Chinese
   homemain_downloads_link: "查看发行说明"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "关于我们"
   about_description: |
-    Chia Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
+    dpools Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
 
     Chia网络还是一家智能交易平台公司。
   about_team_title: "球队"
   about_team_description: |
-    Chia Network由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
+    dpools Network由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
   about_invest_investors_title: "我们的投资者"
   blog_title: "直接来自Chia"
   download_title: "发行说明"
@@ -360,7 +352,7 @@ cn: # Chinese
     布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
 
     Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
-  footer_copyright_year: "©Chia Network 2021"
+  footer_copyright_year: "©dpools Network 2021"
   navigation:
     download: "下载"
     about: "关于"
@@ -423,9 +415,9 @@ jp: # Japanese
     チアのアルファテストネット
     -------------
 
-    Chia Networkは、BitTorrentの創設者[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)によって作成されたブロックチェーンおよびスマートトランザクションプラットフォームです。これは、Bitcoinブロックチェーンにインスパイアされ、類似していますが、Chiaでは、リソースは計算能力ではなく、ディスクスペースです。これを達成するために、エネルギーを集中的に使用する「作業の証明」は「スペースの証明」に置き換えられます。そのため、ディスクスペースはエネルギーではなくトランザクションを検証するための主要なリソースになります。
+    dpools Networkは、BitTorrentの創設者[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)によって作成されたブロックチェーンおよびスマートトランザクションプラットフォームです。これは、Bitcoinブロックチェーンにインスパイアされ、類似していますが、Chiaでは、リソースは計算能力ではなく、ディスクスペースです。これを達成するために、エネルギーを集中的に使用する「作業の証明」は「スペースの証明」に置き換えられます。そのため、ディスクスペースはエネルギーではなくトランザクションを検証するための主要なリソースになります。
 
-    アルファテストネットは、Chiaのスマートトランザクションプログラミング言語であるChialispの最初のバージョンを紹介します。現在利用可能なスマートトランザクションは次のとおりです。[アトミックスワップ](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)、[承認済み受取人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)、[回復可能なウォレット](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)、[multisig wallets](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)、および[レート制限ウォレット](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 Chia Networkの創設者であり、BitTorrentの前の創設者である[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)よりについて詳しく説明しています。
+    アルファテストネットは、Chiaのスマートトランザクションプログラミング言語であるChialispの最初のバージョンを紹介します。現在利用可能なスマートトランザクションは次のとおりです。[アトミックスワップ](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)、[承認済み受取人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)、[回復可能なウォレット](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)、[multisig wallets](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)、および[レート制限ウォレット](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 dpools Networkの創設者であり、BitTorrentの前の創設者である[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)よりについて詳しく説明しています。
 
     Beta testnetは、フルノード、ファーマー、タイム諸侯ードを含むChiaのブロックチェーンコンセンサスレイヤーも導入します。
 
@@ -452,16 +444,16 @@ jp: # Japanese
   homemain_downloads_link: "リリースノートを見る"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "私たちに関しては"
   about_description: |
-    Chia Networkは、分散型のオープンソースグローバルブロックチェーンであり、従来の暗号化された作業の証明よりも無駄が少なく、分散され、安全です。これは、Bitcoinブロックチェーンにインスパイアされ、類似していますが、Chiaでは、リソースは計算能力ではなく、ディスクスペースです。これを実現するために、ビットコインで使用される「作業の証明」は「スペースの証明」に置き換えられます。そのため、ディスクスペースが主要なリソースとなり、トランザクションを検証する分散型「中本スタイル」コンセンサスに至る時間の証明になります。
+    dpools Networkは、分散型のオープンソースグローバルブロックチェーンであり、従来の暗号化された作業の証明よりも無駄が少なく、分散され、安全です。これは、Bitcoinブロックチェーンにインスパイアされ、類似していますが、Chiaでは、リソースは計算能力ではなく、ディスクスペースです。これを実現するために、ビットコインで使用される「作業の証明」は「スペースの証明」に置き換えられます。そのため、ディスクスペースが主要なリソースとなり、トランザクションを検証する分散型「中本スタイル」コンセンサスに至る時間の証明になります。
 
     Chiaネットワークは、スマートトランザクションプラットフォーム企業でもあります。
   about_team_title: "チーム"
   about_team_description: |
-    Chia Networkは、BitTorrentの作成者である[Bram Cohen](https://www.linkedin.com/in/cohenbram/)によって設立されました. これには、eMusic.comおよびVindiciaの元創設者兼CEOである [Gene Hoffman](https://www.linkedin.com/in/gehoffman/)が含まれますそして、[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/),Overstock.comの元演技CEO。 Chiaブロックチェーンには、コードベースに多くの貢献をするアクティブなオープンソース開発者コミュニティがあります。 多くの個人が、研究、査読、開発、テスト、文書化、翻訳などの分野でChiaブロックチェーンに貢献しています。
+    dpools Networkは、BitTorrentの作成者である[Bram Cohen](https://www.linkedin.com/in/cohenbram/)によって設立されました. これには、eMusic.comおよびVindiciaの元創設者兼CEOである [Gene Hoffman](https://www.linkedin.com/in/gehoffman/)が含まれますそして、[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/),Overstock.comの元演技CEO。 Chiaブロックチェーンには、コードベースに多くの貢献をするアクティブなオープンソース開発者コミュニティがあります。 多くの個人が、研究、査読、開発、テスト、文書化、翻訳などの分野でChiaブロックチェーンに貢献しています。
   about_invest_investors_title: "投資家"
   blog_title: "チアからまっすぐ"
   download_title: "リリースノート"
@@ -485,7 +477,7 @@ jp: # Japanese
     Bram Cohen [発表](https://www.youtube.com/watch?v=2Zlcgt8FVz4)、2018年2月のスタンフォードでの宇宙の証拠。私たちのアドバイザーであるDan Boneh、BenediktBünz、およびBen Fisch [VDFの調査を公開](https://eprint.iacr.org/2018/712.pdf)は、Proof of Timeの基盤技術です。 Lipa Long [クラスグループの説明を公開](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf)は、[時間の証明](https://eprint.iacr.org/2018/627.pdf)に基づいています。 Bramは、[学術論文に基づいて2018年1月にBPASE '18で[Hellmanの時間とメモリのトレードオフと宇宙の証明への応用](https://www.youtube.com/watch?v=iqxkO7C-cyk)を発表しました。 ](https://eprint.iacr.org/2017/893)およびHamza Abusalahによるこれらの[スライド](https://view.publitas.com/chia-network/pbase18slides/page/1)。 Ben Fischは、2018年1月のBPASE 2018で検証可能な遅延関数について[トーク](https://www.youtube.com/watch?v=qUoagL7OZ1k)を行いました。 Bram [BerkeleyのBlockchainで話しました](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/)(約20:00から）2018年3月に[slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)。 Bramは、Proofs of Space and Time([slides](https：//cyber.stanford)で無駄を取り除くことについて、2017年1月に[BPASE 2017で講演](https://www.youtube.com/watch?v=aYG0NxoG7yw)を行いました。 .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf)）。
 
     Bramは、SF Bitcoin Devsセミナーで、[スライド](https://view.publitas.com/chiaでビットコインをスケーリングするためのデータ構造について[トーク](https://www.youtube.com/watch?v=zZaB4hM8SQ4)を行いました-network / bitcoin_data_structures /)および[Merkle Set code](https://github.com/bramcohen/MerkleSet)。 Bramは、SF Bitcoin Devsセミナーで、暗号通貨から無駄を取り除くことについて[トーク](https://www.youtube.com/watch?v=zZaB4hM8SQ4)を行いました。
-  footer_copyright_year: "©Chia Network 2021"
+  footer_copyright_year: "©dpools Network 2021"
   navigation:
     download: "ダウンロード"
     about: "約"
@@ -541,16 +533,16 @@ nl: # Dutch
   faq_title: "FAQ"
   news_title: "Nieuws"
   news_see_more: "Bekijk meer"
-  homemain_title: "Chia Network"
+  homemain_title: "dpools Network"
   homemain_subtitle: "Een beter blockchain- en slim transactieplatform dat meer gedecentraliseerd, efficiënter en veiliger is."
   homemain_button: "Download Beta Testnet"
   homemain_description: |
     Chia's Beta Testnet
     --------------------
 
-    Chia Network is een blockchain en slim transactieplatform gecreëerd door de oprichter van BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Het wordt aangedreven door het eerste nieuwe Nakamoto-stijl consensus-algoritme sinds Bitcoin in 2008 werd gelanceerd. Bewijzen van ruimte en tijd vervangen energie-intensieve "werkbewijzen" door gebruik te maken van ongebruikte schijfruimte.
+    dpools Network is een blockchain en slim transactieplatform gecreëerd door de oprichter van BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Het wordt aangedreven door het eerste nieuwe Nakamoto-stijl consensus-algoritme sinds Bitcoin in 2008 werd gelanceerd. Bewijzen van ruimte en tijd vervangen energie-intensieve "werkbewijzen" door gebruik te maken van ongebruikte schijfruimte.
 
-    Beta testnet introduceert de eerste versie van Chialisp, de slimme programmeertaal van Chia. De momenteel beschikbare slimme transacties zijn: [atomaire swaps](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [geautoriseerde begunstigden](https://github.com/ Chia-Network / wallets / blob / master / docs / authorised_payees.md), [herstelbare wallets](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [multisig wallets](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) en [rate-limited wallets](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). De oprichter van Chia Network en voormalig oprichter van BitTorrent heeft meer over [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
+    Beta testnet introduceert de eerste versie van Chialisp, de slimme programmeertaal van Chia. De momenteel beschikbare slimme transacties zijn: [atomaire swaps](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [geautoriseerde begunstigden](https://github.com/ Chia-Network / wallets / blob / master / docs / authorised_payees.md), [herstelbare wallets](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [multisig wallets](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) en [rate-limited wallets](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). De oprichter van dpools Network en voormalig oprichter van BitTorrent heeft meer over [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
 
     Beta testnet introduceert ook Chia's blockchain-consensuslaag met een volledig knooppunt, boer en timelord. De blockchain is alfa en ondersteunt nog geen transacties.
 
@@ -577,16 +569,16 @@ nl: # Dutch
   homemain_downloads_link: "Bekijk de release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "Over ons"
   about_description: |
-    Chia Network is een gedecentraliseerde open source wereldwijde blockchain die minder verspillend, gedecentraliseerd en veiliger is dan traditionele cryptocurrencies voor werkbewijzen. Het is geïnspireerd en vergelijkbaar met de Bitcoin-blockchain, maar in Chia is de bron geen rekenkracht, maar schijfruimte. Om dit te bereiken, worden de "bewijzen van werk" die in Bitcoin worden gebruikt, vervangen door "bewijzen van ruimte", dus schijfruimte wordt de belangrijkste bron en het bewijs van tijd om tot een gedecentraliseerde "Nakamoto-stijl" consensus te komen die transacties valideert.
+    dpools Network is een gedecentraliseerde open source wereldwijde blockchain die minder verspillend, gedecentraliseerd en veiliger is dan traditionele cryptocurrencies voor werkbewijzen. Het is geïnspireerd en vergelijkbaar met de Bitcoin-blockchain, maar in Chia is de bron geen rekenkracht, maar schijfruimte. Om dit te bereiken, worden de "bewijzen van werk" die in Bitcoin worden gebruikt, vervangen door "bewijzen van ruimte", dus schijfruimte wordt de belangrijkste bron en het bewijs van tijd om tot een gedecentraliseerde "Nakamoto-stijl" consensus te komen die transacties valideert.
 
     Chia-netwerk is ook een slim transactieplatformbedrijf.
   about_team_title: "Team"
   about_team_description: |
-    Chia Network is opgericht door de maker van BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Het omvat ook uitvoerend leiderschap van de voormalige oprichter en CEO van eMusic.com en Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) en de voormalige waarnemend CEO van Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). De Chia-blockchain heeft een actieve open source-ontwikkelaarscommunity met veel bijdragen aan de codebase. Veel individuen dragen bij aan de Chia-blockchain op gebieden zoals onderzoek, peer reviews, ontwikkeling, testen, documentatie en vertaling.
+    dpools Network is opgericht door de maker van BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Het omvat ook uitvoerend leiderschap van de voormalige oprichter en CEO van eMusic.com en Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) en de voormalige waarnemend CEO van Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). De Chia-blockchain heeft een actieve open source-ontwikkelaarscommunity met veel bijdragen aan de codebase. Veel individuen dragen bij aan de Chia-blockchain op gebieden zoals onderzoek, peer reviews, ontwikkeling, testen, documentatie en vertaling.
   about_invest_investors_title: "Onze investeerders"
   blog_title: "Rechtstreeks uit Chia"
   download_title: "Release-opmerkingen"
@@ -610,7 +602,7 @@ nl: # Dutch
     Bram Cohen [gepresenteerd](https://www.youtube.com/watch?v=2Zlcgt8FVz4) op Stanford in februari 2018 over Proofs of Space. Onze adviseurs, Dan Boneh, Benedikt Bünz en Ben Fisch [hebben een overzicht van VDF's gepubliceerd](https://eprint.iacr.org/2018/712.pdf), de onderliggende technologie van Proof of Time. Lipa Long [publiceerde een verklaring van klassengroepen](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) dat onze [Proofs of Time](https://eprint.iacr.org/2018/627.pdf) is gebaseerd op. Bram presenteerde [Beyond Hellman's Time-Memory Trade-Offs met toepassingen voor bewijzen van ruimte](https://www.youtube.com/watch?v=iqxkO7C-cyk) op BPASE '18 in januari 2018 op basis van de [academische paper](https://eprint.iacr.org/2017/893) en deze [slides](https://view.publitas.com/chia-network/pbase18slides/page/1) door Hamza Abusalah. Ben Fisch gaf op BPASE 2018 in januari 2018 een [talk](https://www.youtube.com/watch?v=qUoagL7OZ1k) over verifieerbare vertragingsfuncties. Bram [sprak bij Blockchain in Berkeley](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (die omstreeks 20:00 begint) in maart 2018 met [slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf). Bram gaf een [lezing op BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) in januari 2017 over het verwijderen van afval met Proofs of Space and Time ([slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)).
 
     Bram gaf een [talk](https://www.youtube.com/watch?v=zZaB4hM8SQ4) op SF Bitcoin Devs Seminar over datastructuren voor het schalen van Bitcoin met [slides](https://view.publitas.com/chia-network/bitcoin_data_structures/) en [Merkle Set-code](https://github.com/bramcohen/MerkleSet). Bram gaf een [talk](https://www.youtube.com/watch?v=zZaB4hM8SQ4) op SF Bitcoin Devs Seminar over het verwijderen van afval uit cryptocurrencies.
-  footer_copyright_year: "© Chia Network 2021"
+  footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Download"
     about: "Over"
@@ -673,9 +665,9 @@ de: # German
     Chias Beta-Testnetz
     --------------------
 
-    Chia Network entwickelt eine Blockchain- und intelligente Transaktionsplattform, die vom Gründer von BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/), entwickelt wurde. Es basiert auf dem ersten neuen Nakamoto-Konsensus-Algorithmus seit der Einführung von Bitcoin im Jahr 2008. Proofs für Raum und Zeit ersetzen energieintensive Proofs für Arbeit durch die Nutzung von nicht verwendetem Speicherplatz.
+    dpools Network entwickelt eine Blockchain- und intelligente Transaktionsplattform, die vom Gründer von BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/), entwickelt wurde. Es basiert auf dem ersten neuen Nakamoto-Konsensus-Algorithmus seit der Einführung von Bitcoin im Jahr 2008. Proofs für Raum und Zeit ersetzen energieintensive Proofs für Arbeit durch die Nutzung von nicht verwendetem Speicherplatz.
 
-    Beta testnet stellt die erste Version von Chialisp vor, der Programmiersprache für intelligente Transaktionen von Chia. Die derzeit verfügbaren smarte Transaktionen sind: [Atomar Swapgeschäfte](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [autorisierte Zahlungsempfänger](https://github.com/ Chia-Network/wallets/blob/master/docs/authorised_payees.md), [wiederherstellbare Brieftasche](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [Brieftaschen mit mehreren Sig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) und [selten-begrenzt Brieftasche](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Der Gründer von Chia Network und ehemalige Gründer von BitTorrent hat mehr über [Chialisp](https://www.chia.net/2019/11/27/chialisp.de.html).
+    Beta testnet stellt die erste Version von Chialisp vor, der Programmiersprache für intelligente Transaktionen von Chia. Die derzeit verfügbaren smarte Transaktionen sind: [Atomar Swapgeschäfte](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [autorisierte Zahlungsempfänger](https://github.com/ Chia-Network/wallets/blob/master/docs/authorised_payees.md), [wiederherstellbare Brieftasche](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [Brieftaschen mit mehreren Sig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) und [selten-begrenzt Brieftasche](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Der Gründer von dpools Network und ehemalige Gründer von BitTorrent hat mehr über [Chialisp](https://www.chia.net/2019/11/27/chialisp.de.html).
 
     Beta testnet führt auch Chias Blockchain-Konsensus-Ebene schicht, die einen vollständigen Knoten, einen Farmer und einen Timelord enthält. Die Blockchain ist Beta und unterstützt noch keine Transaktionen.
 
@@ -702,16 +694,16 @@ de: # German
   homemain_downloads_link: "Versionshinweise anzeigen"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "Über uns"
   about_description: |
-    Chia Network ist eine dezentrale globale Open-Source-Blockchain, die weniger verschwenderisch, dezentraler und sicherer ist als der herkömmliche Nachweis von Kryptowährungen. Es ist inspiriert und ähnelt der Bitcoin-Blockchain, aber in Chia ist die Ressource nicht Rechenleistung, sondern Speicherplatz. Um dies zu erreichen, werden die in Bitcoin verwendeten "Proofs of Work" durch "Proofs of Space" ersetzt, sodass der Festplattenspeicher zur Hauptressource und zum Zeitnachweis für einen dezentralen "Nakamoto-Stil" -Konsens wird, der Transaktionen validiert.
+    dpools Network ist eine dezentrale globale Open-Source-Blockchain, die weniger verschwenderisch, dezentraler und sicherer ist als der herkömmliche Nachweis von Kryptowährungen. Es ist inspiriert und ähnelt der Bitcoin-Blockchain, aber in Chia ist die Ressource nicht Rechenleistung, sondern Speicherplatz. Um dies zu erreichen, werden die in Bitcoin verwendeten "Proofs of Work" durch "Proofs of Space" ersetzt, sodass der Festplattenspeicher zur Hauptressource und zum Zeitnachweis für einen dezentralen "Nakamoto-Stil" -Konsens wird, der Transaktionen validiert.
 
     Chia-Netzwerk ist auch eine intelligente Transaktionsplattform.
   about_team_title: "Mannschaft"
   about_team_description: |
-    Chia Network wurde vom Schöpfer von BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/), gegründet. Es umfasst auch die Geschäftsführung des ehemaligen Gründers und CEO von eMusic.com und Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) und des ehemaligen CEO von Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Die Chia-Blockchain hat eine aktive Open-Source-Entwickler-Community mit vielen Beiträgen zur Codebasis. Viele Einzelpersonen tragen in Bereichen wie Forschung, Peer Reviews, Entwicklung, Testen, Dokumentation und Übersetzung zur Chia-Blockchain bei.
+    dpools Network wurde vom Schöpfer von BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/), gegründet. Es umfasst auch die Geschäftsführung des ehemaligen Gründers und CEO von eMusic.com und Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) und des ehemaligen CEO von Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Die Chia-Blockchain hat eine aktive Open-Source-Entwickler-Community mit vielen Beiträgen zur Codebasis. Viele Einzelpersonen tragen in Bereichen wie Forschung, Peer Reviews, Entwicklung, Testen, Dokumentation und Übersetzung zur Chia-Blockchain bei.
   about_invest_investors_title: "Unsere Investoren"
   blog_title: "Direkt aus Chia"
   download_title: "Versionshinweise"
@@ -735,7 +727,7 @@ de: # German
     Bram Cohen [vorgestellt](https://www.youtube.com/watch?v=2Zlcgt8FVz4) in Stanford am Februar 2018 zu Proofs of Space. Unsere Berater Dan Boneh, Benedikt Bünz und Ben Fisch [haben eine Umfrage zu VDFs veröffentlicht](https://eprint.iacr.org/2018/712.pdf), die die zugrunde liegende Technologie von Proof of Time darstellen. Lipa Long [hat eine Erklärung zu Klassengruppen veröffentlicht](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf), dass unsere [Proofs of Time](https: //eprint.iacr .org / 2018 / 627.pdf) basiert auf. Bram präsentierte auf der BPASE '18 im Januar 2018 [Beyond Hellmans Time-Memory-Kompromisse mit Anwendungen für Raumbeweise](https://www.youtube.com/watch?v=iqxkO7C-cyk) auf der Grundlage der [wissenschaftlichen Arbeit](https://eprint.iacr.org/2017/893) und diese [Folien](https://view.publitas.com/chia-network/pbase18slides/page/1) von Hamza Abusalah. Ben Fisch hielt auf der BPASE 2018 im Januar 2018 einen [Vortrag](https://www.youtube.com/watch?v=qUoagL7OZ1k) über überprüfbare Verzögerungsfunktionen. Bram [sprach bei Blockchain in Berkeley](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (der gegen 20:00 Uhr beginnt) im März 2018 mit [Folien](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf). Bram hielt im Januar 2017 einen [Vortrag auf der BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) zum Entfernen von Abfällen mit Proofs of Space and Time ([Folien](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)).
 
     Bram hielt beim SF Bitcoin Devs Seminar einen [Vortrag](https://www.youtube.com/watch?v=zZaB4hM8SQ4) über Datenstrukturen für die Skalierung von Bitcoin mit [Folien](https://view.publitas.com/chia-network/bitcoin_data_structures/) und [Merkle Set code](https://github.com/bramcohen/MerkleSet). Bram hielt beim SF Bitcoin Devs Seminar einen Vortrag (https://www.youtube.com/watch?v=zZaB4hM8SQ4) über das Entfernen von Abfällen aus Kryptowährungen.
-  footer_copyright_year: "© Chia Network 2021"
+  footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Herunterladen"
     about: "Über"
@@ -798,9 +790,9 @@ es: # Spanish
     Red de prueba alfa de Chia
     --------------------------
 
-    Chia Network desarrolla una plataforma de transacciones inteligentes y blockchain creada por el fundador de BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Está impulsado por el primer nuevo algoritmo de consenso de estilo Nakamoto desde que se lanzó Bitcoin en 2008. Las "pruebas de espacio y tiempo" reemplazan las "pruebas de trabajo" intensivas en energía mediante el uso de espacio en disco no utilizado.
+    dpools Network desarrolla una plataforma de transacciones inteligentes y blockchain creada por el fundador de BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Está impulsado por el primer nuevo algoritmo de consenso de estilo Nakamoto desde que se lanzó Bitcoin en 2008. Las "pruebas de espacio y tiempo" reemplazan las "pruebas de trabajo" intensivas en energía mediante el uso de espacio en disco no utilizado.
 
-    Beta Testnet presenta la primera versión de Chialisp, el lenguaje de programación de transacciones inteligentes de Chia. Las transacciones inteligentes actualmente disponibles son: [intercambios atómicos](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [beneficiarios autorizados](https://github.com/ Chia-Network/wallets/blob/master/docs/authorised_payees.md), [billeteras recuperables](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [billeteras multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org), y [billeteras con tarifa limitada](https://github.com/Chia-Network/wallets/blob /master/docs/rate_limited_wallet.md). El fundador de Chia Network, y ex fundador de BitTorrent, tiene más información sobre [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
+    Beta Testnet presenta la primera versión de Chialisp, el lenguaje de programación de transacciones inteligentes de Chia. Las transacciones inteligentes actualmente disponibles son: [intercambios atómicos](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [beneficiarios autorizados](https://github.com/ Chia-Network/wallets/blob/master/docs/authorised_payees.md), [billeteras recuperables](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [billeteras multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org), y [billeteras con tarifa limitada](https://github.com/Chia-Network/wallets/blob /master/docs/rate_limited_wallet.md). El fundador de dpools Network, y ex fundador de BitTorrent, tiene más información sobre [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
 
     Beta Testnet también presenta la capa de consenso de blockchain de Chia que incluye un nodo completo, agricultor y señor del tiempo. La cadena de bloques es alfa y aún no admite transacciones
 
@@ -827,16 +819,16 @@ es: # Spanish
   homemain_downloads_link: "Ver notas de la versión"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "Sobre nosotros"
   about_description: |
-    Chia Network es una cadena de bloques global descentralizada de código abierto que es menos derrochadora, más descentralizada y más segura que las criptomonedas tradicionales de prueba de trabajo. Está inspirado y es similar a la cadena de bloques de Bitcoin, pero en Chia, el recurso no es la potencia informática, sino el espacio en disco. Para lograr esto, las "pruebas de trabajo" utilizadas en Bitcoin se reemplazan por "pruebas de espacio", por lo que el espacio en disco se convierte en el recurso principal y las pruebas de tiempo para llegar a un consenso descentralizado de "estilo Nakamoto" que valida las transacciones.
+    dpools Network es una cadena de bloques global descentralizada de código abierto que es menos derrochadora, más descentralizada y más segura que las criptomonedas tradicionales de prueba de trabajo. Está inspirado y es similar a la cadena de bloques de Bitcoin, pero en Chia, el recurso no es la potencia informática, sino el espacio en disco. Para lograr esto, las "pruebas de trabajo" utilizadas en Bitcoin se reemplazan por "pruebas de espacio", por lo que el espacio en disco se convierte en el recurso principal y las pruebas de tiempo para llegar a un consenso descentralizado de "estilo Nakamoto" que valida las transacciones.
 
     La red de Chia también es una compañía de plataforma de transacciones inteligentes.
   about_team_title: "Equipo"
   about_team_description: |
-    Chia Network fue fundada por el creador de BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). También incluye el liderazgo ejecutivo del ex fundador y CEO de eMusic.com y Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) y el ex CEO interino de Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia blockchain tiene una comunidad activa de desarrolladores de código abierto con muchas contribuciones a la base de código. Muchas personas contribuyen a la cadena de bloques de Chia en áreas que incluyen investigación, revisión por pares, desarrollo, pruebas, documentación y traducción.
+    dpools Network fue fundada por el creador de BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). También incluye el liderazgo ejecutivo del ex fundador y CEO de eMusic.com y Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) y el ex CEO interino de Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia blockchain tiene una comunidad activa de desarrolladores de código abierto con muchas contribuciones a la base de código. Muchas personas contribuyen a la cadena de bloques de Chia en áreas que incluyen investigación, revisión por pares, desarrollo, pruebas, documentación y traducción.
   about_invest_investors_title: "Nuestros inversores"
   blog_title: "Directo de Chia"
   download_title: "Notas de lanzamiento"
@@ -952,7 +944,7 @@ sr: # Serbian
   homemain_downloads_link: "Погледајте биљешке о издању"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "О нама"
   about_description: |
@@ -1048,9 +1040,9 @@ pt:
     Beta Testnet de Chia
     --------------------
 
-    A Chia Network é uma nova plataforma de transações inteligentes e criptomoeda ecológica criada pelo fundador da BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). É inspirado e semelhante ao blockchain Bitcoin, mas em Chia, o recurso não é poder de computação, mas espaço em disco. Para conseguir isso, as "provas de trabalho" com uso intensivo de energia são substituídas por "provas de espaço", de modo que o espaço em disco se torna o principal recurso para validar transações, não energia.
+    A dpools Network é uma nova plataforma de transações inteligentes e criptomoeda ecológica criada pelo fundador da BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). É inspirado e semelhante ao blockchain Bitcoin, mas em Chia, o recurso não é poder de computação, mas espaço em disco. Para conseguir isso, as "provas de trabalho" com uso intensivo de energia são substituídas por "provas de espaço", de modo que o espaço em disco se torna o principal recurso para validar transações, não energia.
 
-    Beta testnet apresenta a primeira versão do Chialisp, a linguagem de programação de transações inteligentes da Chia. As transações inteligentes disponíveis atualmente são: [swaps atômicos](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [beneficiários autorizados](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [carteiras recuperáveis](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [carteiras multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) e [carteiras com taxa limitada](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). O fundador da Chia Network e ex-fundador do BitTorrent, tem mais informações sobre o [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
+    Beta testnet apresenta a primeira versão do Chialisp, a linguagem de programação de transações inteligentes da Chia. As transações inteligentes disponíveis atualmente são: [swaps atômicos](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [beneficiários autorizados](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [carteiras recuperáveis](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [carteiras multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) e [carteiras com taxa limitada](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). O fundador da dpools Network e ex-fundador do BitTorrent, tem mais informações sobre o [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html).
 
     O Beta testnet também apresenta a camada de consenso de blockchain da Chia, que inclui um nó completo, agricultor e senhor do tempo. O blockchain é alfa e ainda não suporta transações.
 
@@ -1077,16 +1069,16 @@ pt:
   homemain_downloads_link: "Ver notas de lançamento"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "Sobre nós"
   about_description: |
-    A Chia Network é uma blockchain global de código aberto descentralizada, menos desperdiçada, mais descentralizada e mais segura do que a prova tradicional de criptomoedas de trabalho. É inspirado e semelhante ao blockchain Bitcoin, mas em Chia, o recurso não é poder de computação, mas espaço em disco. Para conseguir isso, as "provas de trabalho" usadas no Bitcoin são substituídas por "provas de espaço", de modo que o espaço em disco se torna o principal recurso e as provas de tempo para chegar a um consenso descentralizado de "estilo Nakamoto" que valida transações.
+    A dpools Network é uma blockchain global de código aberto descentralizada, menos desperdiçada, mais descentralizada e mais segura do que a prova tradicional de criptomoedas de trabalho. É inspirado e semelhante ao blockchain Bitcoin, mas em Chia, o recurso não é poder de computação, mas espaço em disco. Para conseguir isso, as "provas de trabalho" usadas no Bitcoin são substituídas por "provas de espaço", de modo que o espaço em disco se torna o principal recurso e as provas de tempo para chegar a um consenso descentralizado de "estilo Nakamoto" que valida transações.
 
     A rede Chia também é uma empresa de plataforma de transações inteligentes.
   about_team_title: "Equipe"
   about_team_description: |
-    A Chia Network foi fundada pelo criador do BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Também inclui liderança executiva do ex-CEO em exercício da overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/) e um ex-fundador da eMusic.com e Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/). A Chia Network terá uma grande comunidade de desenvolvedores de código aberto com muitas contribuições causais para a base de código. Há muitos outros que contribuem para pesquisa, revisão por pares, testes, documentação e tradução.
+    A dpools Network foi fundada pelo criador do BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Também inclui liderança executiva do ex-CEO em exercício da overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/) e um ex-fundador da eMusic.com e Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/). A dpools Network terá uma grande comunidade de desenvolvedores de código aberto com muitas contribuições causais para a base de código. Há muitos outros que contribuem para pesquisa, revisão por pares, testes, documentação e tradução.
   about_invest_investors_title: "Nossos Investidores"
   blog_title: "Direto de Chia"
   download_title: "Notas de versão"
@@ -1173,9 +1165,9 @@ tr: # Turkish
     Chia’nın Alfa Test Ağı
     --------------------
 
-    Chia Network, BitTorrent'in kurucusu [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/) tarafından oluşturulan çevre dostu yeni bir kripto para birimi ve akıllı işlem platformudur. Bitcoin blok zincirine benzeyen Chia, kaynak hesaplama gücü değil, disk alanı bakimindan sektordeki diger oyunculara da ilham vermektedir. Bunu elde etmek için enerji yoğun “iş kanıtı” yerine “alan kanıtı” ile yer değiştirilme islemi uygulanmakta ve böylece disk alanı enerji değil işlemler doğrulamak için ana kaynak haline getirilmektedir.
+    dpools Network, BitTorrent'in kurucusu [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/) tarafından oluşturulan çevre dostu yeni bir kripto para birimi ve akıllı işlem platformudur. Bitcoin blok zincirine benzeyen Chia, kaynak hesaplama gücü değil, disk alanı bakimindan sektordeki diger oyunculara da ilham vermektedir. Bunu elde etmek için enerji yoğun “iş kanıtı” yerine “alan kanıtı” ile yer değiştirilme islemi uygulanmakta ve böylece disk alanı enerji değil işlemler doğrulamak için ana kaynak haline getirilmektedir.
 
-    Beta testnet, Chia’nın akıllı işlem programlama dili Chialisp'in ilk sürümünü tanıttı. Şu anda mevcut olan akıllı işlemler şunlardır: [atomik takaslar](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [yetkili paydaşlar](https://github.com/ Chia-Network / cüzdanlar / blob / master / dokümanlar / authorised_payees.md), [kurtarılabilir cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [multisig cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) ve [oran sınırlı cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Chia Network'ün kurucusu ve BitTorrent'in eski kurucusu Bram Cohen [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) hakkında daha fazla bilgiye sahiptir.
+    Beta testnet, Chia’nın akıllı işlem programlama dili Chialisp'in ilk sürümünü tanıttı. Şu anda mevcut olan akıllı işlemler şunlardır: [atomik takaslar](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [yetkili paydaşlar](https://github.com/ Chia-Network / cüzdanlar / blob / master / dokümanlar / authorised_payees.md), [kurtarılabilir cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [multisig cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) ve [oran sınırlı cüzdanlar](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). dpools Network'ün kurucusu ve BitTorrent'in eski kurucusu Bram Cohen [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) hakkında daha fazla bilgiye sahiptir.
 
     Alfa test ağı, Chia’nın tam bir düğüm, çiftçi ve zaman ağzı içeren blockchain konsensüs katmanını da tanıtmıstir. Chia blockchainin su anda alfa testleri yapilmakta oldugu icin, henüz işlemleri desteklememektedir.
 
@@ -1202,16 +1194,16 @@ tr: # Turkish
   homemain_downloads_link: "Sürüm notlarını göster"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "Hakkımızda"
   about_description: |
-    Chia Network, geleneksel çalışma kripto para birimlerinin kanıtlarından daha az israf, daha merkezi olmayan ve daha güvenli olan ademi merkeziyetçi bir açık kaynak küresel blok zinciridir. İlham veriyor ve Bitcoin blok zincirine benziyor, ancak Chia'da kaynak hesaplama gücü değil, disk alanı. Bunu başarmak için, Bitcoin'de kullanılan “çalışma kanıtları” yerine “alan kanıtı” ile yer değiştirildiğinden, disk alanı, işlemleri doğrulayan merkezi olmayan bir “Nakamoto tarzı” fikir birliğine varmak için ana kaynak ve zaman kanıtı haline gelir.
+    dpools Network, geleneksel çalışma kripto para birimlerinin kanıtlarından daha az israf, daha merkezi olmayan ve daha güvenli olan ademi merkeziyetçi bir açık kaynak küresel blok zinciridir. İlham veriyor ve Bitcoin blok zincirine benziyor, ancak Chia'da kaynak hesaplama gücü değil, disk alanı. Bunu başarmak için, Bitcoin'de kullanılan “çalışma kanıtları” yerine “alan kanıtı” ile yer değiştirildiğinden, disk alanı, işlemleri doğrulayan merkezi olmayan bir “Nakamoto tarzı” fikir birliğine varmak için ana kaynak ve zaman kanıtı haline gelir.
 
     Chia ağı aynı zamanda akıllı bir işlem platformu şirketidir.
   about_team_title: "Takım"
   about_team_description: |
-    Chia Network, BitTorrent'in yaratıcısı [Bram Cohen](https://www.linkedin.com/in/cohenbram/) tarafından kuruldu. Ekip, yönetici liderliğini kurucusu ve CEO'sunu içeriyor nın-nin Vindicia ve eMusic.com, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) 'ın eski kurucusu ve CEO'su ile Overstock.com'un eski oyunculuk CEO'su [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/) da yer alıyor. Chia blockchain, kod tabanına birçok katkı sağlayan aktif bir açık kaynak geliştirici topluluğuna sahiptir. Birçok kişi araştırma, akran değerlendirmesi, geliştirme, test, dokümantasyon ve çeviri gibi alanlarda Chia blok zincirine katkıda bulunur.
+    dpools Network, BitTorrent'in yaratıcısı [Bram Cohen](https://www.linkedin.com/in/cohenbram/) tarafından kuruldu. Ekip, yönetici liderliğini kurucusu ve CEO'sunu içeriyor nın-nin Vindicia ve eMusic.com, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) 'ın eski kurucusu ve CEO'su ile Overstock.com'un eski oyunculuk CEO'su [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/) da yer alıyor. Chia blockchain, kod tabanına birçok katkı sağlayan aktif bir açık kaynak geliştirici topluluğuna sahiptir. Birçok kişi araştırma, akran değerlendirmesi, geliştirme, test, dokümantasyon ve çeviri gibi alanlarda Chia blok zincirine katkıda bulunur.
   about_invest_investors_title: "Yatırımcılarımız"
   blog_title: "Doğrudan Chia"
   download_title: "Sürüm notları"
@@ -1291,7 +1283,7 @@ ru: # Russian
   faq_title: "Вопросы-Ответы"
   news_title: "Новости"
   news_see_more: "Узнать больше"
-  homemain_title: "Chia Network"
+  homemain_title: "dpools Network"
   homemain_subtitle: "Новый блокчейн и платформа смарт-транзакций, которые более эффективны, децентрализованны и безопасны."
   homemain_announce: "<a href='https://www.chia.net/2021/03/17/Chia-1.0.html'>Основная сеть уже здесь!</a>"
   homemain_button: "Скачать"
@@ -1303,7 +1295,7 @@ ru: # Russian
 
     9 февраля 2021 мы выпустили наш бизнес-документ (Business Whitepaper) и запустили основную сеть для фарминга в пятницу, 19 марта 2021 года. Транзакции будут активированы 3 мая 2021 года около 10:00 по тихоокеанскому времени. Вас также может заинтересовать наш рабочий документ о новом консенсусе, который впервые был реализован в 19-й бета-версии, 12 января 2021 года.
 
-    Chia Network разрабатывает блокчейн и платформу интеллектуальных транзакций, созданную изобретателем BitTorrent, [Брэмом Коэном](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Он реализует первый новый алгоритм консенсуса Накамото со времен Биткойна с 2008 года. Доказательство пространства и времени (Proofs of Space and Time) заменят энергоемкое «доказательство работы» (proofs-of-work)
+    dpools Network разрабатывает блокчейн и платформу интеллектуальных транзакций, созданную изобретателем BitTorrent, [Брэмом Коэном](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Он реализует первый новый алгоритм консенсуса Накамото со времен Биткойна с 2008 года. Доказательство пространства и времени (Proofs of Space and Time) заменят энергоемкое «доказательство работы» (proofs-of-work)
 
     Chialisp - это новый язык программирования Chia для цепочек, который является мощным, легким для аудита и безопасным. Рекомендуем смарт-транзакций доступные в настоящий момент: [атомарные свопы](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [уполномоченные получатели](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [восстанавливаемые кошельки](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [кошельки с мультиподписью](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org), [кошельки с ограничением скорости](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md) и цветные монеты. Брэм представляет [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) в нашем [блоге](/blog).
 
@@ -1321,15 +1313,15 @@ ru: # Russian
   homemain_downloads_link: "Примечания к релизам"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Chia Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The dpools Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "О нас"
   about_description: |
-    Основанная Брэмом Коэном, изобретателем протокола BitTorrent, компания Chia Network создает лучшую блокчейн-платформу и платформу для смарт-транзакций, которая будет более децентрализованной, более эффективной и безопасной.
+    Основанная Брэмом Коэном, изобретателем протокола BitTorrent, компания dpools Network создает лучшую блокчейн-платформу и платформу для смарт-транзакций, которая будет более децентрализованной, более эффективной и безопасной.
 
     Chialisp - это новый язык программирования для интеллектуальных транзакций Chia, который является мощным, легким для аудита и безопасным. Блокчейн работает на основе первого нового, с момента запуска Биткойна в 2008 году, алгоритма для достижения консенсуса Накамото. Доказательства пространства и времени (Proofs of Space and Time) заменяют энергоемкое «доказательство работы» (proofs-of-work) за счет использования дискового пространства.
 
-    Сеть Chia поддерживает разработку и развертывание блокчейна Chia по всему миру. Chia Network поддерживает разработчиков Сhia и поддерживает корпоративное использование chia с помощью программного обеспечения и предоставления займов в chia.
+    Сеть Chia поддерживает разработку и развертывание блокчейна Chia по всему миру. dpools Network поддерживает разработчиков Сhia и поддерживает корпоративное использование chia с помощью программного обеспечения и предоставления займов в chia.
   about_team_title: "Команда"
   about_team_description: |
     Сеть Chia была основана создателем BitTorrent [Брэмом Коэном](https://www.linkedin.com/in/cohenbram/). В состав команды также входят исполнительный руководитель основателя и генерального директора eMusic.com и Vindicia [Джин Хоффман](https://www.linkedin.com/in/gehoffman/) и бывший исполняющий обязанности генерального директора Overstock.com [Митч Эдвардс](https://www.linkedin.com/in/mitchelledwards/). Блокчейн Chia имеет активное сообщество разработчиков открытого исходного кода, внесшее большой вклад в кодовую базу. Многие люди вносят свой вклад в блокчейн Chia в таких областях, как исследования, экспертные оценки, разработка, тестирование, документация и перевод.
@@ -1365,7 +1357,7 @@ ru: # Russian
     Брэм Коэн [выступил](https://www.youtube.com/watch?v=2Zlcgt8FVz4) в Стэнфорде в феврале 2018 года по теме Proofs of Space. Наши консультанты Дэн Бонех, Бенедикт Бюнц и Бен Фиш [опубликовали обзор VDF](https://eprint.iacr.org/2018/712.pdf) который являются базой для технологии Proof of Time. Липа Лонг [опубликовала объяснение групп классов](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) на котором основоно [Доказательство времени](https://eprint.iacr.org/2018/627.pdf). На BPASE '18 в январе 2018 года Брэм представил [научную работу (текст)](https://eprint.iacr.org/2017/893) под названием [Beyond Hellman’s Time-Memory Trade-Offs with Applications to Proofs of Space (выступление)](https://www.youtube.com/watch?v=iqxkO7C-cyk) и эти [слайды](https://view.publitas.com/chia-network/pbase18slides/page/1) Хамзы Абусалаха. Бен Фиш выступил с [докладом](https://www.youtube.com/watch?v=qUoagL7OZ1k) на BPASE '18 в январе 2018 года о Проверяемых функциях задержки (Verifiable Delay Functions). Брэм [выступил на конференции Blockchain в Беркли](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (которая начинается около 20:00) в марте 2018 года с  этими [слайдами](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf). Брэм [выступил с докладом на BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) в январе 2017 года об удалении отходов с помощью Proofs of Space and Time  ([слайды](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)).
 
     Брэм [выступил с докладом](https://www.youtube.com/watch?v=zZaB4hM8SQ4) на семинаре SF Bitcoin Devs о структурах данных для масштабирования Bitcoin с [слайдами](https://view.publitas.com/chia-network/bitcoin_data_structures/) и [кодом множества Меркиля](https://github.com/bramcohen/MerkleSet). Брэм [выступил](https://www.youtube.com/watch?v=zZaB4hM8SQ4) на семинаре SF Bitcoin Devs об удалении отходов из криптовалют.
-  footer_copyright_year: "© Chia Network 2021"
+  footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Скачать"
     about: "О нас"

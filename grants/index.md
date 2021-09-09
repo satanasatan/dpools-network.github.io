@@ -1,5 +1,5 @@
 ---
 layout: grants
 lang: en
-title: Grants - Chia Network
+title: Grants - dpools Network
 ---

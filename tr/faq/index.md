@@ -1,5 +1,5 @@
 ---
 layout: faq
 lang: tr
-title: SSS - Chia Network
+title: SSS - dpools Network
 ---

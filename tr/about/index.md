@@ -1,5 +1,5 @@
 ---
 layout: about
 lang: tr
-title: Hakkında - Chia Network
+title: Hakkında - dpools Network
 ---
