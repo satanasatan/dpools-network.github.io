@@ -1,36 +1,33 @@
 ---
 lang: en
 layout: post
-title:  "Chia Joins the Open Compute Project"
+title:  "#############"
 date:   2021-08-30
 author: "[Jonmichael Hands](https://twitter.com/LebanonJon)"
 ---
 
-# Targeting a circular economy for storage
-
+# #############
+<!-- 
 <p align="center">
 
 <img src="/assets/blog/OCP.png" alt="Open Compute Project community member logo" width="50%">
 
-</p>
+</p> -->
 
 
-Chia is excited to announce that we are joining the [Open Compute Project ](https://www.opencompute.org/)to contribute to sustainability in storage.
+#############
 
-OCP is mainly known for open, modular, and vanity-free hardware that runs hyperscale data centers like Facebook and Microsoft, but [OCP 2.0 ](https://www.opencompute.org/blog/introducing-ocp-20)is laying out a new strategy to meet sustainability and circularity goals while ensuring it seeds future innovative technologies like open silicon and AI at scale.
+##   #############
 
+########################################################################################################.
 
-## Why do we care?
+"#############" ([Source](https://grist.org/technology/can-you-recycle-a-hard-drive-google-is-quietly-trying-to-find-out/))
 
-The Chia Netspace during mainnet launch in March was just over 100 Petabytes (PB) and has grown to over 40 Exabytes (EB) today. We expect a large percentage of future growth to come from underutilized storage – [IDC ](https://idcdocserv.com/US47836321)believes there is an estimated 505 EB in consumer desktops and external storage alone. The next area we want to tackle is creating a more circular economy for hard drives. Chia farming is a perfect workload for used drives because the dpools Network doesn't store any user data. It is common practice among hyperscale data centers and cloud service providers, who are the largest consumers of hard drives globally, to physically destroy hard drives (referred to in the industry as shredding or crushing) before they leave the data center. These same hyperscale data centers use advanced erasure coding and encryption prior to having customers' data on the disk - and then follow rigorous standards to securely erase the data on the drive before obtaining a certificate of sanitization.
+#############
 
-"Typically, when a data center operator swaps out old drives for new ones — as they do every three to five years — the discarded drives are unceremoniously shredded." ([Source](https://grist.org/technology/can-you-recycle-a-hard-drive-google-is-quietly-trying-to-find-out/))
+##   #############
 
-After all of this, the drive is destroyed instead of being recycled, recertified, and resold. We think this is a bad idea, and most of the folks we talked to agree but don't have the resources to tackle the many roadblocks to stop the practice. We would rather see these hard drives get reused for farming Chia than thrown into a landfill.
-
-## Using fully recertified data center racks for farming Chia
-
-Some companies are already doing a major part in turning the world of IT equipment into a circular economy, a few of which I have met in the past few months.
+#############
 
 <p align="center">
 
