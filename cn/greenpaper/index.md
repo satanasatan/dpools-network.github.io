@@ -1,5 +1,5 @@
 ---
 layout: greenpaper
 lang: cn
-title: 绿皮书 - dpools Network
+title: 绿皮书 - GUIYUN Digital Tech Lab
 ---

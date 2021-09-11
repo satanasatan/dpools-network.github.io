@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: tr
-title: Haberler - dpools Network
+title: Haberler - GUIYUN Digital Tech Lab
 ---

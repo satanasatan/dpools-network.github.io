@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: en
-title: Contact - dpools Network
+title: Contact - GUIYUN Digital Tech Lab
 ---

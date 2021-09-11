@@ -1,5 +1,5 @@
 ---
 layout: greenpaper
 lang: tr
-title: Yeşil kağıt - dpools Network
+title: Yeşil kağıt - GUIYUN Digital Tech Lab
 ---

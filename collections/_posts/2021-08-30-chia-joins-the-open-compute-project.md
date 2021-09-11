@@ -1,12 +1,12 @@
 ---
 lang: en
 layout: post
-title:  "#############"
-date:   2021-08-30
-author: "[Jonmichael Hands](https://twitter.com/LebanonJon)"
+title:  "Guangxi Guiyun Digital Technology Laboratory"
+date:   2021-07-14
+# author: "[Jonmichael Hands](https://twitter.com/LebanonJon)"
 ---
 
-# #############
+# Guangxi Guiyun Digital Technology Laboratory
 <!-- 
 <p align="center">
 
@@ -14,7 +14,7 @@ author: "[Jonmichael Hands](https://twitter.com/LebanonJon)"
 
 </p> -->
 
-
+<!-- 
 #############
 
 ##   #############
@@ -86,4 +86,4 @@ You can find more information about SED from SSD and HDD vendors:
 
 ## What else can Chia do?
 
-We already built a revolutionary consensus protocol called Proof of Space and Time that is much more energy-efficient and decentralized than cryptocurrencies today. Chia doesn’t sell any hardware so why do we care about contributing to OCP? Part of our mission isn’t just to be sustainable now, but to be able to grow and scale sustainably. I think the industry is headed in the right direction but Chia feels like having an outside view from the cryptocurrency and global financial markets that can help accelerate these positive trends. We also use a lot of storage and have in-house storage experts (ahem…). We are working on a larger initiative for a more circular economy for storage devices to promote hardware reuse and a significant reduction in carbon and e-waste with some of the biggest names in the field. We can’t wait to talk more about what we are doing, so stay tuned!
+We already built a revolutionary consensus protocol called Proof of Space and Time that is much more energy-efficient and decentralized than cryptocurrencies today. Chia doesn’t sell any hardware so why do we care about contributing to OCP? Part of our mission isn’t just to be sustainable now, but to be able to grow and scale sustainably. I think the industry is headed in the right direction but Chia feels like having an outside view from the cryptocurrency and global financial markets that can help accelerate these positive trends. We also use a lot of storage and have in-house storage experts (ahem…). We are working on a larger initiative for a more circular economy for storage devices to promote hardware reuse and a significant reduction in carbon and e-waste with some of the biggest names in the field. We can’t wait to talk more about what we are doing, so stay tuned! -->

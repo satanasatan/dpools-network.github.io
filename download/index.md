@@ -4,5 +4,5 @@ lang: en
 redirect_from:
   - /errata/
   - /releases/
-title: Download - dpools Network
+title: Download - GUIYUN Digital Tech Lab
 ---

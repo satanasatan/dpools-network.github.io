@@ -1,5 +1,5 @@
 ---
 layout: grants
 lang: en
-title: Grants - dpools Network
+title: Grants - GUIYUN Digital Tech Lab
 ---

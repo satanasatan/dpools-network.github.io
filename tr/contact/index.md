@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: tr
-title: İletişim - dpools Network
+title: İletişim - GUIYUN Digital Tech Lab
 ---

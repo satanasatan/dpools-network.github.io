@@ -1,5 +1,5 @@
 ---
 layout: blog
 lang: tr
-title: Blog - dpools Network
+title: Blog - GUIYUN Digital Tech Lab
 ---

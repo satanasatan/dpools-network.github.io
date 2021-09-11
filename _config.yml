@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 # SEO settings
-title: dpools Network
+title: GUIYUN Digital Tech Lab
 description: > # this means to ignore newlines until "baseurl:"
   A better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 twitter:
@@ -21,7 +21,7 @@ twitter:
   card: summary
  #facebook:
   #publisher: https://www.facebook.com/ChiaProject
-logo: /img/chia_logo.svg
+logo: /img/huayun_logo.svg
 social:
   links:
     - https://twitter.com/chia_project

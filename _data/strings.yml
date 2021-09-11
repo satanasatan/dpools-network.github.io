@@ -2,16 +2,27 @@ en: # English
   faq_title: "FAQ"
   news_title: "News"
   news_see_more: "See more"
-  homemain_title: "Dpools Network"
-  homemain_subtitle: "what is this."
-  homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>blockchain is live!</a>"
+  homemain_title: "GUI YUN Digital Tech Lab"
+  homemain_subtitle: "Guangxi Guiyun Digital Technology Laboratory (hereinafter referred to as: Guiyun Laboratory)
+      is a joint venture of Guangxi Huayun Big Data Co., Ltd. based on the company’s strategic planning
+      for the development of big data, artificial intelligence and blockchain, in conjunction with foreign experts
+      from Silicon Valley, USA and Vancouver, Canada. Joint laboratory established.Guiyun Lab will make
+      full use of the superior resources of the team of scientists to carry out cooperation on artificial intelligence,
+      blockchain, intelligent optimization of data storage, and quantum computing.In the future, the laboratory
+      can apply for national projects, carry out joint training of talents, strive to conquer a number of
+      key technologies, undertake a number of major scientific research projects in Guangxi, form a
+      number of important standards, and cultivate a number of high-end talents, which will contribute
+      to the improvement of Guangxi Huayun Big Data Company and Guilin The technical research 
+      capabilities of the city and Guangxi Zhuang Autonomous Region have important and positive significance."
+  homemain_announce: "<a href='http://ceshi2.7ugl.com'> Guangxi Huayun big data Co., Ltd </a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
-    Mainnet Release
+    Guangxi Huayun big data Co., Ltd
     --------------------
 
-     to be added
-  homemain_addendum: |
+     Guangxi Huayun Big Data Co., Ltd. is a state-owned Guilin city jointly funded by Guilin Economic and Technological Information Industry Investment Co., Ltd., an outstanding ecological partner recommended by Huawei Technologies Co., Ltd., and Guilin Boshen Network Technology Co., Ltd. on behalf of Huawei. The holding company, as a supporting enterprise of Huawei's information industry in Guilin, takes the lead in implementing the informatization construction of "Digital Guilin".
+     Guangxi Huayun Big Data Co., Ltd. relies on Huawei’s brand, market influence and Huawei’s technical support to provide Huawei-related products, technologies and services in Guangxi and rely on the Guilin Huawei Cloud Computing Data Center (Guangxi Autonomous Region-level Big Data Sub-center) and The Guilin government cloud platform provides industrial empowerment for the development of local informatization in Guangxi and provides a digital engine for the economic development of Guilin.
+   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
   homemain_box_section_1: "Blockchain, overlapping and Coloured coins"
@@ -90,7 +101,7 @@ en: # English
     * [Guidelines for Using dpools Network’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
     * [Chia Copyright Policy](/assets/legal/Chia-Copyright-Policy.pdf)
     * [Chia Trademark Policy](/assets/legal/Chia-Trademark-Policy.pdf)
-  footer_copyright_year: "© dpools Network 2021"
+  # footer_copyright_year: "© dpools Network 2021"
   navigation:
     download: "Download"
     about: "About"
@@ -103,7 +114,7 @@ en: # English
     grants: "Grants"
   contact_title: "Contact Us"
   contact_join_keybase: "Join our Keybase group"
-  contact_email_title: "Never miss news. Subscribe today."
+  # contact_email_title: "Never miss news. Subscribe today."
   contact_live_feed_title: "Keybase Live Feed"
   contact_email: "Email"
   contact_signup: "Submit"
@@ -289,21 +300,11 @@ cn: # Chinese
   homemain_description: |
     Chia的Beta测试网
     -------------
-
-    dpools Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
-
-    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 dpools Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
-
-    Beta测试网还引入了Chia的区块链共识层，其中包括一个完整的节点，农民和时间主。
-
-    由于这是Beta版本，因此您可能需要查看[release notes](download/#release-notes)。
-
-    区块链
-    ---
-
-    Chia的区块链包括一个完整的节点，农民和时间领主。在[GitHub](https://github.com/Chia-Network/chia-blockchain)上下载源代码。
-
-    Chialisp和LedgerSim
+        广西桂云数字技术实验室（以下简称：桂云实验室）是广西华云大数据有限公司根据公司对大数据、人工智能和区块链发展战略规划，
+    联合美国硅谷和加拿大温哥华的外国专家而成立的联合实验室。桂云实验室将充分利用科学家团队的优势资源，围绕人工智能、区块
+    链、数据存储智能优化、量子计算等内容开展合作。实验室未来可以申请国家项目、开展人才联合培养，力争攻克一批关键技术、承
+    担一批广西重大科研项目、形成一批重要标准、培养一批高端人才，对于提升广西华云大数据公司、桂林市及广西壮族自治区的技术
+    研究能力具有重要积极意义。
     ------------------
 
     LedgerSim支持在账本而非区块链上进行Chialisp智能交易，以进行测试和开发。 Chia的钱包展示了我们的新编程语言Chialisp。在[GitHub](https://github.com/Chia-Network/wallets)上下载源代码。

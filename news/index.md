@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: en
-title: News - dpools Network
+title: News - GUIYUN Digital Tech Lab
 ---

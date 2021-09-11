@@ -4,5 +4,5 @@ lang: tr
 redirect_from:
   - /errata/
   - /tr/releases/
-title: İndir - dpools Network
+title: İndir - GUIYUN Digital Tech Lab
 ---

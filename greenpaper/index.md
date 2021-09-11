@@ -1,5 +1,5 @@
 ---
 layout: greenpaper
 lang: en
-title: Green Paper - dpools Network
+title: Green Paper - GUIYUN Digital Tech Lab
 ---

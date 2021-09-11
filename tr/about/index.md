@@ -1,5 +1,5 @@
 ---
 layout: about
 lang: tr
-title: Hakkında - dpools Network
+title: Hakkında - GUIYUN Digital Tech Lab
 ---

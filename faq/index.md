@@ -1,5 +1,5 @@
 ---
 layout: faq
 lang: en
-title: FAQ - dpools Network
+title: FAQ - GUIYUN Digital Tech Lab
 ---

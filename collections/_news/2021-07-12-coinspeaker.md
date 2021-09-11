@@ -1,5 +1,5 @@
 ---
-title:  "Bram Cohen: dpools Network Planning New Defi Products "
+title:  "Bram Cohen: GUIYUN Digital Tech Lab Planning New Defi Products "
 weblink: "https://www.coinspeaker.com/chia-network-new-defi-products/"
 date:   2021-07-12
 thumbnail: "/assets/coinspeaker.jpg"

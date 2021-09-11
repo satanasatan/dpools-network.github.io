@@ -1,5 +1,5 @@
 ---
 layout: faq
 lang: tr
-title: SSS - dpools Network
+title: SSS - GUIYUN Digital Tech Lab
 ---

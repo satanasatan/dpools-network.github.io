@@ -1,7 +1,7 @@
 ---
 layout: homemain
 lang: en
-title: Home - dpools Network
+title: Home - GUI YUN Digital Tech Lab
 redirect_from:
   - /developer/
 ---
