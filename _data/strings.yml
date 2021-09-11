@@ -2,14 +2,15 @@ en: # English
   faq_title: "FAQ"
   news_title: "News"
   news_see_more: "See more"
-  homemain_title: "Dpools Network"
-  homemain_subtitle: "what is this."
-  homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>blockchain is live!</a>"
+  homemain_title: "GUI YUN Digital Tech Lab"
+  homemain_subtitle: "Guangxi Guiyun Digital Technology Laboratory (hereinafter referred to as Guiyun laboratory) is a joint venture between Guangxi Huayun big data Co., Ltd. and foreign experts from Silicon Valley of the United States and Vancouver of Canada according to the company's big data, artificial intelligence and blockchain development strategic planning. The joint laboratory was established. Guiyun laboratory will make full use of the advantageous resources of the team of scientists to carry out cooperation in the fields of artificial intelligence, blockchain, intelligent optimization of data storage, quantum computing and so on."
+  homemain_announce: "<a href='http://ceshi2.7ugl.com'> Guangxi Huayun big data Co., Ltd </a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
-    Mainnet Release
+    Guangxi Huayun big data Co., Ltd
     --------------------
-     to be added
+
+     Guangxi Huayun Big Data Co., Ltd. is a state-owned Guilin city jointly funded by Guilin Economic and Technological Information Industry Investment Co., Ltd., an outstanding ecological partner recommended by Huawei Technologies Co., Ltd., and Guilin Boshen Network Technology Co., Ltd. on behalf of Huawei. Guangxi Huayun Big Data Co., Ltd. relies on Huawei’s brand, market influence and Huawei’s technical support to provide Huawei-related products, technologies and services in Guangxi and rely on the Guilin Huawei Cloud Computing Data Center (Guangxi Autonomous Region-level Big Data Sub-center) and The Guilin government cloud platform provides industrial empowerment for the development of local informatization in Guangxi and provides a digital engine for the economic development of Guilin.
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
